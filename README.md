@@ -52,7 +52,7 @@ Important GNOME note
 
 GNOME in StrayOS should only be started using the safe command:
 
-strayos-gnome-safe
+strayos-gnome
 
 It is not recommended to start GNOME using regular methods, because the system may become unstable or the desktop environment may not start correctly.
 
